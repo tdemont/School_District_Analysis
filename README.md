@@ -20,3 +20,15 @@ By removing the 9th grade reading and math results for Thomas High School, the f
     - Math and reading scores were unaffected for the other grades at Thomas High School
     - Scores by School Spending changed slightly, but not substantially
 ![](Resources/spending1.png)
+![](Resources/spending2.png)
+    - Values in the 'Medium' category were slightly impacted when sorted by size
+![](Resources/size1.png)
+![](Resources/size2.png)
+    - When organized by school type, the "Charter" school category was slightly impacted
+    
+## Summary
+By replacing 9th grade data with Nan, the district summary was slightly altered along the following 4 data points:
+![](Resources/district1.png)
+![](Resources/district2.png)
+
+Essentially, the 461 of the 39,170 students were 9th graders at Thomas High comprised of barely more than 1% of the total student body, and the alteration to their data had a small impact overall.
