@@ -19,4 +19,4 @@ By removing the 9th grade reading and math results for Thomas High School, the f
   4. By replacing the 9th grade scores with Nan, other key metrics were impacted
     - Math and reading scores were unaffected for the other grades at Thomas High School
     - Scores by School Spending changed slightly, but not substantially
-![]("Resources"/"spending1.png")
+![](Resources/spending1.png)
